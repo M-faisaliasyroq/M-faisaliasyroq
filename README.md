@@ -17,7 +17,7 @@ const faisal = {
   name: "Faisal",
   location: "Indonesia 🇮🇩",
   role: "Student & Web Developer",
-  education: "SMKN 2 Surabaya",
+  education: "SMKN 2 Subang",
   interests: ["Web Development", "AI/ML", "Open Source"],
   currentFocus: "Building cool projects & learning new tech",
   funFact: "I debug with console.log 😅",
