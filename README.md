@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!;I+build+things+for+the+web.;Exploring+AI+%2B+Web+Dev.)
 
-<img src="kana-rain.gif" alt="kana rain" width="480" />
+<img src="battle-anime.gif" alt="anime battle" width="480" />
 
 </div>
 
