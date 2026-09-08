@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Faisal! 👋
+# Hey there, I'm M Fais Ali Asyroq! 👋
 
 ### `Web Developer | AI Enthusiast | Student`
 
@@ -15,8 +15,8 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const faisal = {
-  name: "Faisal",
+const mFaisAliAsyroq = {
+  name: "M Fais Ali Asyroq",
   location: "Indonesia 🇮🇩",
   role: "Student & Web Developer",
   education: "SMKN 2 Subang",
